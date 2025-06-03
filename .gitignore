@@ -1,0 +1,10 @@
+
+__pycache__/
+*.pyc
+.env
+*.png
+*.jpg
+.vscode/
+.idea/
+*.log
+.playwright/
